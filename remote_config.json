@@ -6,5 +6,5 @@
   "showFirstAd":true,
   "showInterstitial":false,
   "showTestAds":false,
-  "showBannerAds":true
+  "showBannerAds":false
 }

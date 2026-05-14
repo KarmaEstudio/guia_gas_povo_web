@@ -5,6 +5,6 @@
   "showAppOpenAd":true,
   "showFirstAd":true,
   "showInterstitial":true,
-  "showTestAds":false,
+  "showTestAds":true,
   "showBannerAds":false
 }
